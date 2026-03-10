@@ -1,5 +1,6 @@
+//simple addition function
 function sum(a, b) {
-  return 2a + b;
+  return a + b;
 }
 
 module.exports = sum;
