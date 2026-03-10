@@ -1,7 +1,7 @@
 {
   "name": "node-ci-example",
   "version": "1.0.0",
-  "description": "Simple CI example",
+  "description": "Simple CI example project for Github Actions",
   "main": "app.js",
   "scripts": {
     "test": "node test.js"
